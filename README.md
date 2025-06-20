@@ -11,7 +11,7 @@ This is a web application built with React and TensorFlow.js that allows you to 
     sudo apt install nodejs -y
     node -v
     sudo apt install npm -y
-    sudo npm install -g pnpm`
+    sudo npm install -g pnpm
     pnpm install
     ```
 
